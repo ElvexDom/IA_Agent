@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Bases de données générées (recréées via db_init_boutique.py)
+*.db
+*.sqlite3
+
+# Persistance vectorielle générée (chatbots/05_persistance_chroma.py)
+memoire_chatbot/
+
+# Artefacts générés
+graph.mmd
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

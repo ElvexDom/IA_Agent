@@ -1,0 +1,56 @@
+BIENVENUE CHEZ "LE GLITCH GOURMAND" - MENU DE LA SEMAINE (Du 12 au 18 Janvier)
+
+Notre philosophie : Des plats compilés avec amour, sans bugs digestifs.
+
+--- LUNDI ---
+Service du Midi :
+- Entrée : Œufs mayonnaise "rebootés" (4.50€)
+- Plat du jour : Hachis Parmentier de canard (14.00€)
+- Option Végétarienne : Lasagnes aux épinards et chèvre (12.50€)
+- Dessert : Mousse au chocolat noir 70% (6.00€)
+
+Service du Soir (À la carte) :
+- Le "Firewall" : Burger double steak, cheddar fondu, sauce piquante, frites maison. Prix : 18.00€
+- Le "Green Code" (100% VÉGAN) : Curry de pois chiches, lait de coco, riz basmati et coriandre fraîche. Prix : 15.00€
+- Planche à partager "Serveur Dédié" (Charcuterie et fromages) : 22.00€
+
+--- MARDI ---
+Service du Midi (Formule Express à 16€ : Plat + Café gourmand) :
+- Plat A : Pavé de saumon, purée de patates douces. (Seul : 15€)
+- Plat B : Risotto aux champignons sauvages (Végétarien). (Seul : 13.50€)
+
+Service du Soir :
+Fermeture exceptionnelle pour mise à jour du chef.
+
+--- MERCREDI ---
+Service du Midi :
+- Salade "Python" : Roquette, tomates séchées, parmesan, jambon de Parme (13.00€)
+- Salade "C++" (VÉGAN) : Quinoa, avocat, graines de grenade, noix, vinaigrette citron. (12.00€)
+
+Service du Soir (Soirée à thème : "L'Italie du Sud") :
+- Pizza Margherita (Tomate, Mozza, Basilic) - 11.00€
+- Pizza "La Data" : Pepperoni, poivrons, oignons, olives noires - 14.00€
+- Pâtes Carbonara (La vraie recette sans crème !) - 13.00€
+- Tiramisu "Cloud" (très léger) - 7.00€
+
+--- JEUDI ---
+Service du Midi :
+- Steak frites sauce au poivre (16.50€)
+- Filet de lieu jaune, petits légumes vapeur (15.00€)
+
+Service du Soir :
+- La Grosse Côte de Bœuf (pour 2 personnes) : Servie avec gratin dauphinois. Prix total : 55.00€
+- Wok de légumes au tofu fumé (VÉGAN) - 14.50€
+
+--- VENDREDI ---
+Service du Midi :
+- Fish & Chips du développeur (15.00€)
+- Burger Végétarien (Galette de haricots rouges) (14.00€)
+
+Service du Soir :
+- Menu Dégustation "Intelligence Artificielle" (Entrée + Plat + Dessert surprise) : 35.00€ par personne.
+- Suppléments : Verre de vin (5€), Bouteille d'eau (3€).
+
+INFOS PRATIQUES :
+Les plats Végans sont signalés.
+Pour les allergies, merci d'envoyer une requête PUT au serveur.
