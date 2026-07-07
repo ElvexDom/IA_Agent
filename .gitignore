@@ -14,9 +14,6 @@ venv/
 # Persistance vectorielle générée (chatbots/05_persistance_chroma.py)
 memoire_chatbot/
 
-# Artefacts générés
-graph.mmd
-
 # Notebooks
 .ipynb_checkpoints/
 
