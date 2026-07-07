@@ -26,9 +26,9 @@ cp .env.example .env   # puis y coller sa vraie clé GROQ_API_KEY
 | Persistance et bases vectorielles (p.12) | ✅ | `chatbots/05_persistance_chroma.py` (Chroma local), `chatbots/06_persistance_pgvector.py` (PGVector distant) |
 | RAG (p.15) | ✅ | `chatbots/07_rag_langchain_chroma.py` (menu du restaurant), `chatbots/08_rag_llamaindex_faiss.py` (référentiel Simplon) |
 | Agents et Outils (p.20) | ✅ | `agent_tools.py` |
-| **Nœuds d'évaluation (p.27)** | ✅ | `agent_evaluateur_sav.py` + `db_init_boutique.py` |
-| Nœud de Protection — Guardrail (p.33) | ⏭️ à faire | — |
-| Human-in-the-loop (p.38) | ⏳ | — |
+| Nœuds d'évaluation (p.27) | ✅ | `agent_evaluateur_sav.py` + `db_init_boutique.py` |
+| **Nœud de Protection — Guardrail (p.33)** | ✅ | `agent_evaluateur_sav.py` (nœud `guardrail` en entrée du graphe) |
+| Human-in-the-loop (p.38) | ⏭️ à faire | — |
 | CheckPoint / Time Travel (p.43) | ⏳ | — |
 | Multi-Agent & Orchestration (p.45) | ⏳ | — |
 | Connecteur MCP (p.58) | ⏳ | — |
@@ -41,7 +41,7 @@ cp .env.example .env   # puis y coller sa vraie clé GROQ_API_KEY
 ├── .env.example                # Modèle de .env sans secret (versionné)
 ├── .gitignore                  # Exclut .env, *.db, memoire_chatbot/, __pycache__/, ...
 ├── agent_tools.py              # Agents et Outils : ReAct + tools + StateGraph (Groq)
-├── agent_evaluateur_sav.py     # Nœuds d'évaluation : agent SAV + juge (Groq)
+├── agent_evaluateur_sav.py     # Agent SAV : guardrail + agent + juge (Groq)
 ├── db_init_boutique.py         # Génère boutique.db (users/orders) pour l'agent SAV
 ├── boutique.db                 # Base sqlite générée
 ├── graph.mmd                   # Visualisation mermaid du graphe de agent_tools.py
