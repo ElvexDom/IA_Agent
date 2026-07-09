@@ -7,7 +7,7 @@ __pycache__/
 .venv/
 venv/
 
-# Bases de données générées (recréées via db_init_boutique.py)
+# Bases de données générées (recréées via db_init_boutique.py / db_init_cinema.py)
 *.db
 *.sqlite3
 

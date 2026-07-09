@@ -1,3 +1,7 @@
+import sys
+
+sys.stdout.reconfigure(encoding="utf-8")
+
 from dotenv import load_dotenv
 from langchain_core.tools import tool
 from langchain_groq import ChatGroq
